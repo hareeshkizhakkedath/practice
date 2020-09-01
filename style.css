@@ -1,0 +1,52 @@
+body{
+    background-color:white;
+}
+
+#one{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    background:black;
+
+}
+#two{
+    border:1px;
+    position: absolute;
+    margin: 10px;
+    width: 180px;
+    height: 180px;
+    border-radius: 170px;
+    background:black;
+}
+#three{
+    position: absolute;
+    margin: 10px;
+    width: 160px;
+    height: 160px;
+    border-radius: 150px;
+    background:black;
+}
+#four{
+    position: absolute;
+    margin: 10px;
+    width: 140px;
+    height: 140px;
+    border-radius: 130px;
+    background:black;
+}
+#five{
+    position: absolute;
+    margin: 10px;
+    width: 120px;
+    height: 120px;
+    border-radius: 110px;
+    background:black;
+}
+#six{
+    position: absolute;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 90px;
+    background:black;
+}
