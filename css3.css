@@ -1,0 +1,21 @@
+.green{
+    position:absolute;;
+    height: 40px;
+    width: 40px;
+    background: green;
+
+}
+.yellow{
+    position: absolute;
+    height: 60px;
+    width:60px;
+    background: yellow;
+
+}
+.red{
+    position: absolute;
+    height:80px;
+    width:80px;
+    background: red;
+
+}
