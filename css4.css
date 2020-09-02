@@ -1,0 +1,33 @@
+.blackLeft{
+  height: 200px;
+  width:200px;
+  background: black;
+  display: inline-block;
+}
+.blackRight{
+  height: 200px;
+  width:200px;
+  background: black;
+  display: inline-block;
+  position:relative;
+  left:200px;
+}
+.bottom{
+  position: relative;
+  top:200px;
+}
+.whiteLeft{
+  height: 200px;
+  width:200px;
+  background: red;
+  position: :relative;
+  display: inline-block;
+}
+.whiteRight{
+  height: 200px;
+  width:200px;
+  background: red;
+  display: inline-block;
+  position:relative;
+  left:200px;
+}
